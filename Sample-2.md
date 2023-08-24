@@ -1,4 +1,4 @@
-# Project 2: Implementation and upgrades.
+# Project 2: Implementations and upgrades.
 
 ## 💼 Project title: 
 ## Documentation about implementation and upgrades.
