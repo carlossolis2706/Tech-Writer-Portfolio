@@ -1,4 +1,4 @@
-# Carlos Tech Writing Portfolio.
+# Carlos Solis Tech Writing Portfolio.
 
 ## 👩🏻‍💻 About me
 Thank you for your interest and for taking the time to review my technical writing portfolio.
