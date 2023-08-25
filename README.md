@@ -1,6 +1,6 @@
 # ✨ Welcome to my page! ✨
 
-# Carlos Solis Tech Writing Portfolio.
+# Carlos Solis Tech Writer Portfolio.
 
 ## 👩🏻‍💻 About me
 Thank you for your interest and for taking the time to review my technical writing portfolio.
