@@ -43,4 +43,5 @@ Carlos Solis
 
 Overview
 
-[Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-1.md),[Project 2 Implementations and upgrades](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2.md)
+[Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-1.md),
+[Project 2 Implementations and upgrades](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2.md)
