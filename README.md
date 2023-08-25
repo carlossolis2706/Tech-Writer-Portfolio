@@ -46,3 +46,27 @@ Overview
 - [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-1.md)
 - [Project 2 Implementations and upgrades](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2.md)
 - [Project 3 SaaS documentation](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-3.md)
+
+---
+
+## 📚 Relevant Education & Professional Development
+
+1. Institution: University of El Salvador
+   - Title: Software Engineering 
+   - Dates: 2021-2027
+
+2. Institution: L'Alliance Française de San Salvador
+   - Title:  DELF level B2
+   - Dates: 2016-2018
+
+3. Institution: American School San Salvador
+   - Title: B2
+   - Dates: 2014-2016
+
+## 📚 Incoming Certifications
+
+* JavaScript | CERTIPORT
+* HTML & CSS | CERTIPORT
+
+
+
