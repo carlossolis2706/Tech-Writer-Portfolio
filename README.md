@@ -23,7 +23,7 @@ Carlos Solis
 
 Merci pour votre intérêt et d'avoir pris le temps de consulter mon portfolio de rédaction technique.
 
-Voici quelques informations sur moi: Plus de quatre ans d'expérience comme Analyste en Développement d'Applications IV en anglais et en français, de septembre 2019 à avril 2023. Mes principales responsabilités consistaient à créer des bases de connaissances, destinées à mes collègues et nos clients. J'ai joué un rôle très important dans la création de l'organisation optimale et accessibilité de notre base de connaissances. Cela a été nécessaire pour organiser l'information que nous gérions, compte tenu de la grande variété de technologies que nous utilisons.
+Voici quelques informations sur moi: Plus de cinq ans d'expérience comme Analyste en Développement d'Applications IV en anglais et en français, de septembre 2019 à avril 2023. Mes principales responsabilités consistaient à créer des bases de connaissances, destinées à mes collègues et nos clients. J'ai joué un rôle très important dans la création de l'organisation optimale et accessibilité de notre base de connaissances. Cela a été nécessaire pour organiser l'information que nous gérions, compte tenu de la grande variété de technologies que nous utilisons.
 
 Mon objectif initial était de se concentrer sur des aspects essentiels tels que la fonctionnalité, les spécificités de la version, les intégrations et le dépannage étape par étape. Afin de garantir que les membres de l'équipe puissent trouver rapidement et efficacement les informations nécessaires. Après quelques mois, j'ai commencé à réfléchir à nouveaux éléments qui pourraient être utiles, tels que l'inclusion d'une section FAQ et de vidéos explicatives.
 
