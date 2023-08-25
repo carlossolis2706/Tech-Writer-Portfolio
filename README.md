@@ -5,13 +5,13 @@
 ## 👩🏻‍💻 About me
 Thank you for your interest and for taking the time to review my technical writing portfolio.
 
-Here's some information about me: Over four years of experience as an Application Development Analyst IV in English and French from September 2019 to April 2023, one of my key roles includes the creation of knowledge bases, catering to both my team members and end users. I played a pioneering role in shaping the optimal organization and accessibility of our knowledge base. This effort was made by the need to organize the information we managed, considering the wide variety of technologies we utilized.
+Here's some information about me: Over five years of experience as an Application Development Analyst IV in English and French from September 2019 to April 2023, one of my key roles includes the creation of knowledge bases, catering to both my team members and end users. I played a pioneering role in shaping the optimal organization and accessibility of our knowledge base. This effort was made by the need to organize the information we managed, considering the wide variety of technologies we utilized.
 
 My initial focus was essential aspects such as Functionality, Version specifics, Integrations, and Step-by-Step Troubleshooting. To ensure team members could find the information quickly and efficiently. After a few months, I started to think of new elements that could be helpful, like including an FAQ section and explained videos.
 
 An essential facet of my role involved creating troubleshooting documentation that addressed known issues and past experiences, helping to improve the time to assist customers in finding solutions; furthermore, I played a significant part in translating complex provider documentation into easily comprehensible language for clients by carefully analyzing keywords and details, enabling them to understand challenging concepts and gain deeper insights in different environment such SaaS and unified technologies. My approach consistently prioritized the end user's experience, ensuring that their uncertainties were always clarified.
 
-I'm currently looking for a new challenge in my professional life and to continue developing my skills as a tech writer since I signed a nondisclosure agreement in my previous job, unfortunately I can't share my tech writing outputs anywhere. I created this portfolio to address those gaps.
+I'm looking for a new challenge in my professional life and to continue developing my skills as a tech writer since I signed a nondisclosure agreement in my previous job, unfortunately I can't share my tech writing outputs anywhere. I created this portfolio to address those gaps.
 
 I hope my technical writing portfolio gives you an insight into my technical writing skills. Please check my [LinkedIn](https://www.linkedin.com/in/carlos-solis-4a5516274/) profile to learn more about my qualifications.
 
