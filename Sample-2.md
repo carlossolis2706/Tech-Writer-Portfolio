@@ -19,7 +19,7 @@ Additionally, I get involved in changes that clients request based on specific n
 - Close queues at a specific time. 
 - Modify call flows
 - Remove limit calls on the queue
-- Functionally test
+- Functionality test
 
 I meticulously documented those cases, providing step-by-step instructions, examples, and screen captures. Making emphasis on the details that helped my colleagues avoid mistakes.
 
