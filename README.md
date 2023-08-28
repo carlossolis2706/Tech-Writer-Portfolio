@@ -64,7 +64,7 @@ Overview
    - Title: B2
    - Dates: 2014-2016
 
-## 📚 Incoming Certifications
+## 📚 Incoming certifications
 
 * JavaScript | CERTIPORT
 * HTML & CSS | CERTIPORT
