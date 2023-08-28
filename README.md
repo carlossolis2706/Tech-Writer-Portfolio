@@ -50,7 +50,7 @@ Overview
 
 ---
 
-## 📚 Relevant Education & Professional Development
+## 📚 Relevant education & Professional evelopment
 
 1. Institution: University of El Salvador
    - Title: Software Engineering 
