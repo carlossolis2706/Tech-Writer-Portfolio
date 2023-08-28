@@ -44,7 +44,7 @@ Carlos Solis
 
 Overview
 
-- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/sample-1.md)
+- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-1-overview.md)
 - [Project 2 Implementations and upgrades](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2.md)
 - [Project 3 SaaS documentation](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-3.md)
 
