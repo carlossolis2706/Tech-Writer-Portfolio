@@ -29,3 +29,9 @@ All this effort helped my team and me to adapt quickly and continue providing ex
 
 ## 👥 Target audience
 My target audience was my team, helping them acquire more knowledge about cloud technology, specifically the SaaS environment, and our customers, with detailed troubleshooting guides that helped them maintain productivity. 
+
+## 📍 Site navigation
+
+Overview
+
+- [Project 3 SaaS documentation](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-3.md)
