@@ -32,4 +32,4 @@ Similarly, my superiors shared their perspectives with me. The idea was always t
 
 Content
 
-- [Project 2: Implementations and upgrades.](https://github.com/carlossolis2706/carlossolis2706/blob/main/sample-1-content.md)
+- [Project 2: Implementations and upgrades.](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2-content.md)
