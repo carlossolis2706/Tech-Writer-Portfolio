@@ -4,7 +4,7 @@
 ## Documentation about implementation and upgrades.
 
 ## 📂 Context
-The documentation usually starts with:
+The second project involved creating documentation for implementations and upgrades, starting with:
 
 - Purpose of the implementation
 - Issues that implementation will fix
