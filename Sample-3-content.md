@@ -29,3 +29,9 @@ This section also covers detailed procedures and functionality tests, which will
 * Step-by-step Troubleshooting guide
   - Client troubleshooting guide
   - Internal troubleshooting guide
+
+
+ ## 📍 Site navigation
+
+
+- [Return to the main page](https://github.com/carlossolis2706)
