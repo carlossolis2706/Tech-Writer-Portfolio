@@ -23,3 +23,9 @@ My colleagues and I began adding more articles based on their client experiences
 ## 👥 Target audience
 The target audience of this knowledge base organization document were current team members, future team members, and clients, always trying to keep it simple with explanations so they could understand what I was trying to transmit. 
 It was the onboarding guide for continuously adding helpful information for existing business services.
+
+## 📍 Site navigation
+
+Content
+
+- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/sample-1.md)
