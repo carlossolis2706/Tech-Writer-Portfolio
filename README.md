@@ -1,18 +1,73 @@
+# ✨ Welcome to my page! ✨
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-solis-4a5516274/) 
+# Carlos Solis Tech Writer Portfolio.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=carlossolis2706&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=carlossolis2706&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossolis2706&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👩🏻‍💻 About me
+Thank you for your interest and for taking the time to review my technical writing portfolio.
+
+Here's some information about me: Over five years of experience as an Application Development Analyst IV in English and French from September 2017 to April 2023, one of my key roles includes the creation of knowledge bases, catering to both my team members and end users. I played a pioneering role in shaping the optimal organization and accessibility of our knowledge base. This effort was made by the need to organize the information we managed, considering the wide variety of technologies we utilized.
+
+My initial focus was essential aspects such as Functionality, Version specifics, Integrations, and Step-by-Step Troubleshooting. To ensure team members could find the information quickly and efficiently. After a few months, I started to think of new elements that could be helpful, like including an FAQ section and explained videos.
+
+An essential facet of my role involved creating troubleshooting documentation that addressed known issues and past experiences, helping to improve the time to assist customers in finding solutions; furthermore, I played a significant part in translating complex provider documentation into easily comprehensible language for clients by carefully analyzing keywords and details, enabling them to understand challenging concepts and gain deeper insights in different environment such SaaS and unified technologies. My approach consistently prioritized the end user's experience, ensuring that their uncertainties were always clarified.
+
+I'm looking for a new challenge in my professional life and to continue developing my skills as a tech writer since I signed a nondisclosure agreement in my previous job, unfortunately I can't share my tech writing outputs anywhere. I created this portfolio to address those gaps. I plan to continue adding more projects that I was part of in my professional life in the following days and also university projects that I have in development stage. 
+
+I hope my technical writing portfolio gives you an insight into my technical writing skills. Please check my [LinkedIn](https://www.linkedin.com/in/carlos-solis-4a5516274/) profile to learn more about my qualifications.
+
+Thank you!
+
+Carlos Solis
 
 ---
-[![](https://visitcount.itsvg.in/api?id=carlossolis2706&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩🏻‍💻 A propos de moi
+Merci pour votre intérêt et d'avoir pris le temps de consulter mon portfolio de rédaction technique.
+
+Voici quelques informations sur moi: Plus de cinq ans d'expérience comme Analyste en Développement d'Applications IV en anglais et en français, de septembre 2017 à avril 2023. Mes principales responsabilités consistaient à créer des bases de connaissances, destinées à mes collègues et nos clients. J'ai joué un rôle très important dans la création de l'organisation optimale et accessibilité de notre base de connaissances. Cela a été nécessaire pour organiser l'information que nous gérions, compte tenu de la grande variété de technologies que nous utilisons.
+
+Mon objectif initial était de se concentrer sur des aspects essentiels tels que la fonctionnalité, les spécificités de la version, les intégrations et le dépannage étape par étape. Afin de garantir que les membres de l'équipe puissent trouver rapidement et efficacement les informations nécessaires. Après quelques mois, j'ai commencé à réfléchir à nouveaux éléments qui pourraient être utiles, tels que l'inclusion d'une section FAQ et de vidéos explicatives.
+
+Une partie essentielle de mon rôle consistait à créer une documentation de dépannage qui abordait les problèmes connus et les expériences passées, contribuant ainsi à améliorer le temps de réponse pour aider nos clients. De plus, j'ai joué un rôle significatif dans la traduction de documentations complexes de nos fournisseurs afin qu'il soit facile de comprendre pour nos clients, en écoutant attentivement les mots-clés et les détails, ce qui leur permettait de comprendre des concepts complexes et aussi d'acquérir une compréhension plus approfondie dans différents environnements tels que le SaaS, Cisco et d'autres technologies. Mon but était toujours l'expérience de l'utilisateur final et que leurs incertitudes soient toujours clarifiées.
+
+Je suis à la recherche d'un nouveau défi dans ma vie professionnelle et je souhaite continuer à développer mes compétences comme rédacteur technique. J'ai dû signer un accord de non-divulgation lors de mon précédent emploi, je ne peux malheureusement pas partager mes travaux de rédaction technique n'importe où. J'ai créé ce portefeuille pour combler ces lacunes. J'ai l'intention de continuer à ajouter des projets auxquels j'ai participé au cours de ma carrière professionnelle dans les jours à venir, ainsi que des projets universitaires que j'ai en phase de développement
+
+J'espère que mon portefeuille de rédaction technique vous donne un aperçu de mes compétences en rédaction technique. Veuillez consulter mon profil [LinkedIn](https://www.linkedin.com/in/carlos-solis-4a5516274/) pour en savoir plus sur mes compétences.
+
+Merci!
+
+Carlos Solis
+
+---
+
+## 📍 Site navigation
+
+Overview
+
+- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-1-overview.md)
+- [Project 2 Implementations and upgrades](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-2-overview.md)
+- [Project 3 SaaS documentation](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-3-overview.md)
+
+---
+
+## 📚 Relevant education & Professional development
+
+1. Institution: University of El Salvador
+   - Title: Software Engineering 
+   - Dates: 2021-2027
+
+2. Institution: L'Alliance Française de San Salvador
+   - Title:  DELF level B2
+   - Dates: 2016-2018
+
+3. Institution: American School San Salvador
+   - Title: B2
+   - Dates: 2014-2016
+
+## 📚 Incoming certifications
+
+* JavaScript | CERTIPORT
+* HTML & CSS | CERTIPORT
 
 
 
