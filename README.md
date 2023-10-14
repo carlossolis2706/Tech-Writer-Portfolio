@@ -1,9 +1,7 @@
-# ✨ Welcome to my page! ✨
+# ✨ Welcome to my Tech Writer Portfolio! ✨
 
-# Carlos Solis Tech Writer Portfolio.
 
-## 👩🏻‍💻 About me
-Thank you for your interest and for taking the time to review my technical writing portfolio.
+## 👩🏻‍💻 Thank you for your interest and for taking the time to review my technical writing portfolio.
 
 Here's some information about me: Over five years of experience as an Application Development Analyst IV in English and French from September 2017 to April 2023, one of my key roles includes the creation of knowledge bases, catering to both my team members and end users. I played a pioneering role in shaping the optimal organization and accessibility of our knowledge base. This effort was made by the need to organize the information we managed, considering the wide variety of technologies we utilized.
 
@@ -21,8 +19,7 @@ Carlos Solis
 
 ---
 
-## 👩🏻‍💻 A propos de moi
-Merci pour votre intérêt et d'avoir pris le temps de consulter mon portfolio de rédaction technique.
+## 👩🏻‍💻 Merci pour votre intérêt et d'avoir pris le temps de consulter mon portfolio de rédaction technique.
 
 Voici quelques informations sur moi: Plus de cinq ans d'expérience comme Analyste en Développement d'Applications IV en anglais et en français, de septembre 2017 à avril 2023. Mes principales responsabilités consistaient à créer des bases de connaissances, destinées à mes collègues et nos clients. J'ai joué un rôle très important dans la création de l'organisation optimale et accessibilité de notre base de connaissances. Cela a été nécessaire pour organiser l'information que nous gérions, compte tenu de la grande variété de technologies que nous utilisons.
 
@@ -50,24 +47,6 @@ Overview
 
 ---
 
-## 📚 Relevant education & Professional development
-
-1. Institution: University of El Salvador
-   - Title: Software Engineering 
-   - Dates: 2021-2027
-
-2. Institution: L'Alliance Française de San Salvador
-   - Title:  DELF level B2
-   - Dates: 2016-2018
-
-3. Institution: American School San Salvador
-   - Title: B2
-   - Dates: 2014-2016
-
-## 📚 Incoming certifications
-
-* JavaScript | CERTIPORT
-* HTML & CSS | CERTIPORT
 
 
 
