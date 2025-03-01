@@ -22,4 +22,4 @@ The primary purpose of this document is to provide an overview of the two key pi
 
 Overview
 
-- [Project 3 SaaS documentation](https://github.com/carlossolis2706/carlossolis2706/blob/main/Sample-3-overview.md)
+- [Project 3 SaaS documentation](https://github.com/carlossolis2706/Tech-Writer-Portfolio/blob/main/Sample-3-overview.md)
