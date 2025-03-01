@@ -28,4 +28,4 @@ It was the onboarding guide for continuously adding helpful information for exis
 
 Content
 
-- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/carlossolis2706/blob/main/sample-1-content.md)
+- [Project 1 Knowledge base organization](https://github.com/carlossolis2706/Tech-Writer-Portfolio/blob/main/sample-1-content.md)
